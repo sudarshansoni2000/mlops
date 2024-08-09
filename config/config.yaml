@@ -1,0 +1,19 @@
+
+# In a project, artifacts are the various outputs or deliverables produced during the development process. These can include:
+
+# Documents: Requirements specifications, design documents, project plans, user manuals, etc.
+# Code: Source code, scripts, and compiled binaries.
+# Data: Databases, test data, configuration files.
+# Reports: Test reports, status reports, performance metrics.
+# Diagrams: Flowcharts, UML diagrams, architecture diagrams.
+# Builds: Compiled executables, libraries, deployment packages.
+
+
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
