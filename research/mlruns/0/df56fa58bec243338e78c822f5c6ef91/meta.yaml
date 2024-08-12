@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/minionlabs/Desktop/MLflow/mlops/research/mlruns/0/df56fa58bec243338e78c822f5c6ef91/artifacts
+end_time: 1723209508350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df56fa58bec243338e78c822f5c6ef91
+run_name: illustrious-seal-894
+run_uuid: df56fa58bec243338e78c822f5c6ef91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723209508331
+status: 3
+tags: []
+user_id: minionlabs
